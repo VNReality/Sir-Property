@@ -1,0 +1,21 @@
+{
+    "name": "Sir Property",
+    "short_name": "SirProperty",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#f4f4f4",
+    "theme_color": "#2E86C1",
+    "description": "A real estate bidding platform for Nagaon, Assam",
+    "icons": [
+        {
+            "src": "assets/icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
